@@ -19,18 +19,24 @@
 }
 
 .alura-imagem{
-    width: 10%;
+    width: 15%;
     justify-content: center;
+    align-items: center;
+    padding: 24px 0;
 }
 
 .programa-edutech-imagem{
-    width: 12%;
+    width: 20%;
     justify-content: center;
+    align-items: center;
+    padding: 24px 0;
 }
 
 .cat-imagem{
-    width: 10%;
+    width: 15%;
     justify-content: center;
+    align-items: center;
+    padding: 24px 0;
 }
 
 .EDUTECH{
