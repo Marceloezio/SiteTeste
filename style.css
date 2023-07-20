@@ -19,19 +19,20 @@
 }
 
 .alura-imagem{
-    width: 7%;
+    width: 5%;
 }
 
 .programa-edutech-imagem{
-    width: 10%;
+    width: 7%;
 }
 
 .cat-imagem{
-    width: 7%;
+    width: 5%;
 }
 
 .edutech{
     background-image:linear-gradient(#A418E7,#D5ACE9);
     color: white;
     display: flex;
+    justify-content: center;
 }
