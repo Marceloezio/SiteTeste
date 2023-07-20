@@ -30,16 +30,23 @@
     width: 5%;
 }
 
-.edutech{
+.EDUTECH{
     background-image:linear-gradient(#A418E7,#D5ACE9);
     color: white;
     display: flex;
     justify-content: center;
     align-items: center;
     padding: 24px 0;
-
 }
 
 .edutech-titulo{
+    padding: 24px 0;
+}
+
+.alura-titulo{
+    padding: 24px 0;
+}
+
+.scratch-titulo{
     padding: 24px 0;
 }
