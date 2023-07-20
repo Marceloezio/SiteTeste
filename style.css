@@ -5,12 +5,12 @@
     justify-content: space-around;
     align-items: center;
     padding: 24px 0;
-
 }
 
 .cabecalho-imagem{
     width: 10%;
 }
+
 .cabecalho-lista-item{
     display: inline-block;
     margin: 0 24px;
@@ -22,11 +22,14 @@
     width: 10%;
 }
 
-
 .programa-edutech-imagem{
     width: 10%;
 }
 
 .cat-imagem{
-    width: 60%;
+    width: 10%;
+}
+
+.edutech{
+    background-image:linear-gradient(#A418,#D5ACE9) ;
 }
