@@ -76,3 +76,28 @@ body {font-family: 'Poppins', sans-serif;
     text-align: center;
     padding: 16px 0;
 }
+.seed-imagem{
+    width: 120px;
+}
+.seed-icone{
+    width: 24px;
+    padding: 4px 8px;
+}
+
+.seed-div{
+    text-align: center;
+    padding: 16px 0;
+}
+
+.gabi-imagem{
+    width: 120px;
+}
+.gabi-icone{
+    width: 24px;
+    padding: 4px 8px;
+}
+
+.gabi-div{
+    text-align: center;
+    padding: 16px 0;
+}
