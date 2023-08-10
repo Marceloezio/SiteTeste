@@ -64,10 +64,10 @@ body {font-family: 'Poppins', sans-serif;
     padding: 24px 0;
 }
 
-.embaixador-imagem{
+.equipe-imagem{
     width: 120px;
 }
-.embaixador-icone{
+.equipe-icone{
     width: 24px;
     padding: 4px 8px;
 }
@@ -76,31 +76,7 @@ body {font-family: 'Poppins', sans-serif;
     text-align: center;
     padding: 16px 0;
 }
-.seed-imagem{
-    width: 120px;
-}
-.seed-icone{
-    width: 24px;
-    padding: 4px 8px;
-}
 
-.seed-div{
-    text-align: center;
-    padding: 16px 0;
-}
-
-.gabi-imagem{
-    width: 120px;
-}
-.gabi-icone{
-    width: 24px;
-    padding: 4px 8px;
-}
-
-.gabi-div{
-    text-align: center;
-    padding: 16px 0;
-}
 .equipe-todos{
     display: grid;
     grid-template-columns: 20% 20% 20% 20% 20%;
