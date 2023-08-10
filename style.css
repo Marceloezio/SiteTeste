@@ -24,7 +24,7 @@ body {font-family: 'Poppins', sans-serif;
 
 .alura-imagem{
     width: 15%;
-    justify-content: center;
+    justify-content: space-around;
     align-items: center;
     padding: 24px 0;
 }
@@ -38,7 +38,7 @@ body {font-family: 'Poppins', sans-serif;
 
 .cat-imagem{
     width: 25%;
-    justify-content: center;
+    justify-content: space-around;
     align-items: center;
     padding: 24px 0;
 }
