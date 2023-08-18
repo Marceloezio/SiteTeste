@@ -14,6 +14,10 @@ body {font-family: 'Poppins', sans-serif;
 a{
     color:white;
     text-decoration: none;
+}
+a:hover {
+    color: #d9a5f1;
+    text-decoration: none;
 
 }
 
