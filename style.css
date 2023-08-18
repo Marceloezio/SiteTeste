@@ -92,9 +92,14 @@ body {font-family: 'Poppins', sans-serif;
 .rodape{
 background-color: black;
 text-align: center;
+color: white;
 }
 .rodape-imagem{
     height: 60px;
     padding: 12px 0;
 
 }
+.whats{
+    text-align: center;
+    padding: 16px 0;
+    }
