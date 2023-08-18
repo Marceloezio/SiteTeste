@@ -11,6 +11,12 @@
 body {font-family: 'Poppins', sans-serif;
 }
 
+a{
+    color:white;
+    text-decoration: none;
+
+}
+
 .cabecalho-imagem{
     width: 10%;
 }
